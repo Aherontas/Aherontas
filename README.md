@@ -8,7 +8,8 @@ Current Role: R&D Engineer at Nokia. Specializing in Python, C++, Linux, Kuberne
 
 * 🌍  I'm based in Athens, but I travel frequently across the world
 * 🖥️  See my portfolio at [here](http://linkedin.com/in/petros-savvakis)
-* 🧠  I'm learning GraphQL, RabbitMQ, Django.
+* 🌐  My Blog site(under construction) is: [here](https://www.petrostechchronicles.com/)
+* 🧠  Currently learning GraphQL, RabbitMQ and PySpark.
 
 ### Skills
 
