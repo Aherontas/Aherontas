@@ -9,6 +9,7 @@ Current Role: R&D Engineer at Nokia. Specializing in Python, C++, Linux, Kuberne
 * 🌍  I'm based in Athens, but I travel frequently across the world
 * 🖥️  See my portfolio at [here](http://linkedin.com/in/petros-savvakis)
 * 🌐  My Blog site(🚧under construction🚧) is: [here](https://www.petrostechchronicles.com/)
+* 💾  Co-Creator - Contributor of PeepDB repo: [here](https://github.com/PeepDB-dev/peepdb)
 * 🧠  Currently learning GraphQL, RabbitMQ and PySpark.
 
 ### Skills
