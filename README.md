@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Petros Savvakis
 =======================================================================================================================================
 
-Senior Software & Robotics Engineer | R&D Engineer @ Nokia | Co-Founder of RespectablyAI & AnalogProgrammers
+Tech Lead @EthnikiAsfalistiki | ex R&D Engineer @ Nokia | Co-Founder of RespectablyAI & AnalogProgrammers & Robotics Engineer 
 -----------------------------------------------------------------------------------------------------
 
 Current Role: R&D Engineer at Nokia. Specializing in Python, C++, Linux, Kubernetes, Cloud Applications, Docker, Jenkins, Git, Ansible, Shell Scripting, OpenStack, VMware, REST APIs, VNFs, and CNFs. AnalogProgrammers: Co-Founder. Focused on embedded systems, software development, and hackathon successes. Freelance Embedded-Hardware Engineer: Proficient in IoT, Docker, PCB Design, Shell Scripting, Power Electronics, Circuit Design, Sensors, 3D Modeling, RTOS, Simulink, Microcontrollers, Control Systems, KiCAD, and Power Management. Previous Roles: Power System Engineer for Prom Racing NTUA FSAE Team (Electric Formula P20, 2021) and Embedded Hardware-Designer Engineer at GAME OVER Escape Rooms. Academics & Publications: Strong academic background with contributions to robotics and software technology research. Philosophy: Committed to continuous learning and adapting to technological advancements. Open to new challenges and opportunities in technology.
