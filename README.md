@@ -10,7 +10,7 @@ Current Role: Lead SW Egnineer at Ethniki Asfalistiki previous rule as a R&D Eng
 * 🖥️  See my portfolio at [here](http://linkedin.com/in/petros-savvakis)
 * 🌐  My Blog site: [here](https://www.petrostechchronicles.com/)
 * 💾  Co-Creator - Contributor of PeepDB repo: [here](https://github.com/PeepDB-dev/peepdb)
-* 🧠  Currently learning GraphQL, RabbitMQ and PySpark.
+* 🧠  Currently learning Rust, GraphQL, RabbitMQ and PySpark.
 
 ### Skills
 
