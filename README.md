@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Lead Software Engineer @EthnikiAsfalistiki | ex R&D II Engineer @Nokia | Co-Founder of RespectablyAI & AnalogProgrammers & Robotics Engineer 
 -----------------------------------------------------------------------------------------------------
 
-**Current Role**: Lead SW Egnineer at Ethniki Asfalistiki previous rule as a R&D Engineer at Nokia. 
+**Current Role**: Lead SW Egnineer at Ethniki Asfalistiki previous rule as a R&D II Engineer at Nokia. 
 
 **Tech Stack:**
 Specializing in Python, C++, Linux, Kubernetes, Cloud Applications, Docker, Jenkins, Git, Ansible, Shell Scripting, OpenStack, VMware, REST APIs, VNFs, and CNFs. 
@@ -20,7 +20,7 @@ Specializing in Python, C++, Linux, Kubernetes, Cloud Applications, Docker, Jenk
   - [Design and development of a digital twin of an electric vehicle's (EV) energy storage cell](https://polynoe.lib.uniwa.gr/xmlui/handle/11400/995)
 
 * 🌍  I'm based in Athens, but I travel frequently across the world
-* 🖥️  See my portfolio at [here](http://linkedin.com/in/petros-savvakis)
+* 🖥️  See my portfolio [here](http://linkedin.com/in/petros-savvakis)
 * 🌐  My Blog site: [here](https://www.petrostechchronicles.com/)
 * 💾  Co-Creator - Contributor of PeepDB repo: [here](https://github.com/PeepDB-dev/peepdb)
 * 🧠  Currently learning Rust, GraphQL, RabbitMQ and PySpark.
