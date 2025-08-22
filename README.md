@@ -15,7 +15,7 @@ Specializing in Python, C++, Linux, Kubernetes, Cloud Applications, Docker, Jenk
 
 - Academics & Publications: Strong academic background with contributions to robotics and software technology research. Philosophy: Committed to continuous learning and adapting to technological advancements. Open to new challenges and opportunities in technology.
 
-  - [UWB-Based Indoor Navigation in a Flexible Manufacturing System Using a Custom Quadrotor UAV](https://scholar.google.pl/citations?view_op=view_citation&hl=pl&user=AJsrj7UAAAAJ&citation_for_view=AJsrj7UAAAAJ:u5HHmVD_uO8C)
+  - [UWB-Based Indoor Navigation in a Flexible Manufacturing System Using a Custom Quadrotor UAV](https://link.springer.com/chapter/10.1007/978-3-031-38241-3_11)
   - [UAV navigation for serving Flexible Manufacturing Systems](https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/61206/Final_Savvakis_Thesis_NTUA_GCV.pdf?sequence=1)
   - [Design and development of a digital twin of an electric vehicle's (EV) energy storage cell](https://polynoe.lib.uniwa.gr/xmlui/handle/11400/995)
 
