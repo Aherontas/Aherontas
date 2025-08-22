@@ -9,11 +9,15 @@ Lead Software Engineer @EthnikiAsfalistiki | ex R&D II Engineer @Nokia | Co-Foun
 **Tech Stack:**
 Specializing in Python, C++, Linux, Kubernetes, Cloud Applications, Docker, Jenkins, Git, Ansible, Shell Scripting, OpenStack, VMware, REST APIs, VNFs, and CNFs. 
 
-* AnalogProgrammers: Co-Founder. Focused on embedded systems, software development, and hackathon successes.
+- AnalogProgrammers: Co-Founder. Focused on embedded systems, software development, and hackathon successes.
 
-* Previous years I worked as a freelance Embedded Hardware Engineer: Proficient in IoT, Docker, PCB Design, Shell Scripting, Power Electronics, Circuit Design, Sensors, 3D Modeling, RTOS, Simulink, Microcontrollers, Control Systems, KiCAD, and Power Management. Also previous Roles in HW Engineering were: Power System Engineer for Prom Racing NTUA FSAE Team (Electric Formula P20, 2021) and Embedded Hardware-Designer Engineer at GAME OVER Escape Rooms. 
+- Previous years I worked as a freelance Embedded Hardware Engineer: Proficient in IoT, Docker, PCB Design, Shell Scripting, Power Electronics, Circuit Design, Sensors, 3D Modeling, RTOS, Simulink, Microcontrollers, Control Systems, KiCAD, and Power Management. Also previous Roles in HW Engineering were: Power System Engineer for Prom Racing NTUA FSAE Team (Electric Formula P20, 2021) and Embedded Hardware-Designer Engineer at GAME OVER Escape Rooms. 
 
-* Academics & Publications: Strong academic background with contributions to robotics and software technology research. Philosophy: Committed to continuous learning and adapting to technological advancements. Open to new challenges and opportunities in technology.
+- Academics & Publications: Strong academic background with contributions to robotics and software technology research. Philosophy: Committed to continuous learning and adapting to technological advancements. Open to new challenges and opportunities in technology.
+
+  - [UWB-Based Indoor Navigation in a Flexible Manufacturing System Using a Custom Quadrotor UAV](https://scholar.google.pl/citations?view_op=view_citation&hl=pl&user=AJsrj7UAAAAJ&citation_for_view=AJsrj7UAAAAJ:u5HHmVD_uO8C)
+  - [UAV navigation for serving Flexible Manufacturing Systems](https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/61206/Final_Savvakis_Thesis_NTUA_GCV.pdf?sequence=1)
+  - [Design and development of a digital twin of an electric vehicle's (EV) energy storage cell](https://polynoe.lib.uniwa.gr/xmlui/handle/11400/995)
 
 * 🌍  I'm based in Athens, but I travel frequently across the world
 * 🖥️  See my portfolio at [here](http://linkedin.com/in/petros-savvakis)
