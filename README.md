@@ -23,7 +23,7 @@ Specializing in Python, C++, Linux, Kubernetes, Cloud Applications, Docker, Jenk
 * 🖥️  See my portfolio [here](http://linkedin.com/in/petros-savvakis)
 * 🌐  My Blog site: [here](https://www.petrostechchronicles.com/)
 * 💾  Co-Creator - Contributor of PeepDB repo: [here](https://github.com/PeepDB-dev/peepdb)
-* 🧠  Currently learning Rust, GraphQL, RabbitMQ and PySpark.
+* 🧠  Currently learning Rust, GraphQL, and Kafka.
 
 ### Skills
 
